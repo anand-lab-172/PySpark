@@ -1,6 +1,6 @@
 # PySpark
 * PySpark also known as Spark in Python Language. Which is a widely used ETL tool in industry to perform heavy task in Big Data
-* In this repository, I have done some basics and intermedaite Pyspark work.
+* In this repository, I have done some basic and intermediate PySpark work.
 # Operations like:
 * Creating of Spark Session
 * Importing the data 
